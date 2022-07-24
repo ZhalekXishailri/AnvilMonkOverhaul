@@ -1,1 +1,2 @@
-# AnvilMonkOverhaul
+# Anvil Monk Overhaul
+This mod combines some of the changes to monks from Improved Anvil and Monk Overhaul, while also allowing Monks to put pips into Two Weapon Style to allow them to reach 5 APR without the massive penalties to THAC0. The overall result should be a more balanced, interesting experience for the monk at all levels, with far greater potential for soloing the trilogy with mods such as SCS and Ascension.
