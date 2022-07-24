@@ -1,0 +1,567 @@
+#271480 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0
+#271478 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0
+#232299 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0
+#224234 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0
+#102507 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0
+#45867 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0
+#24234 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0 ~~~~~MONK: Monks are warriors who pursue perfection through contemplation as well as action. They are versatile fighters, especially skilled in combat without weapons or armor. Though Monks cannot cast spells, they have a unique magic of their own: they channel a subtle energy, called ki, which allows them to perform amazing feats. The Monk's best known feat is their ability to stun an opponent with an unarmed blow.
+
+CLASS FEATURES:
+
+- May not wear any armor.
+- May only use weapons available to the Thief class (except two-handed).
+- May only become Proficient (one slot) in any weapon class.
+- May only become Proficient (one slot) in Single-Weapon Style and may not put slots into any other style.
+- Moves 2 points faster than other characters. Movement rate further improves by 1 every 5 levels.
+- May make 1 unarmed attack per round. An additional 1/2 attack per round is gained every 3 levels. Damage dealt by unarmed attacks increases with level as follows:
+  Level 1-2: 1d6
+  Level 3-5: 1d8
+  Level 6-8: 1d10
+  Level 9-14: 1d12
+  Level 15+: 1d20
+- At level 9, unarmed attacks are treated as a +1 magical weapon and gain a +1 bonus to hit and damage rolls. This enchantment improves to +2 at level 12, +3 at level 15, and +4 at level 25. 
+- Receives a +2 bonus to Saving Throws vs. Spell.
+- Deflect Missiles: +1 bonus to AC vs. missile attacks every 3 levels.
+- Starts with an Armor Class of 9 at 1st level and gains an additional +1 bonus every 2 levels.
+- May use the Stunning Blow ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Flurry of Blows ability once per day. Gains one use at level 11, 16 and 21.
+- May use the Diamond Body ability once per day. Gains one use at levels 17, 22 and 27.
+- 5th level: Becomes immune to all diseases and cannot be slowed.
+- 7th level: May use the Lay On Hands ability on <PRO_HIMHER>self to heal 2 Hit Points per level.
+- 8th level: Gains a -1 bonus to Speed Factor.
+- 9th level: Gains a +1 bonus to all Saving Throws and becomes immune to charm.
+- 11th level: Becomes immune to poison.
+- 12th level: Gains another -1 bonus to Speed Factor.
+- 13th level: May use the Quivering Palm ability once per day.
+- 14th level: Gains 3% Magic Resistance per level (starting with 42% at 14th level).
+- 20th level: Becomes immune to non-magical weapons.
+- Alignment restricted to lawful.
+- Hit Die: d8
+
+STUNNING BLOW: All successful attacks within the next round force the victim to save vs. Spell or be stunned. This special ability automatically modifies normal attacks; no targeting needs to be done.
+
+FLURRY OF BLOWS: Agility and prowess are key factors that allow a master of hand-to-hand combat survive in a fight against heavily armed bandits and spell-wielding sorcerers. Trained monks are capable of engaging their opponent with extraordinary speed, effectively doubling the amount of attacks they make. For 3 rounds + 1 round / level, a monk's number of attacks per round doubles.
+
+DIAMOND BODY: An experienced monk channels his inner energy to induce a restorative state that heals the wounds and protects the self. For 5 rounds, the character receives 20% resistance to physical damage, regenerates 6 Hit Points per round and acquires immunity to Level Drain, Petrification and Imprisonment.
+
+QUIVERING PALM: The next successful attack forces the opponent to save vs. Spell or die. This special ability automatically modifies normal attacks; no targeting needs to be done.~~~~~ [] #7 #0 #0

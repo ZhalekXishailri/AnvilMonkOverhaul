@@ -1,0 +1,113 @@
+BACKUP ~anvilmnkoverhaul/backup~
+AUTHOR ~dracoqwerty35@outlook.com~
+
+LANGUAGE ~English~ ~english~ ~anvilmnkoverhaul/lang/english/anvilmnkoverhaul.tra~
+
+BEGIN @1 // Monk High Level Abilities
+COPY ~anvilmnkoverhaul/spl/kish1.spl~  	~override/kish1.spl~ 	SAY NAME1 @5 SAY 80 @6
+COPY ~anvilmnkoverhaul/spl/kish2.spl~   	~override/kish2.spl~ 	SAY NAME1 @7 SAY 80 @8
+COPY ~anvilmnkoverhaul/spl/kish3.spl~   	~override/kish3.spl~ 	SAY NAME1 @9 SAY 80 @10
+COPY ~anvilmnkoverhaul/spl/kish4.spl~   	~override/kish4.spl~ 	SAY NAME1 @11 SAY 80 @12
+COPY ~anvilmnkoverhaul/spl/kish5.spl~   	~override/kish5.spl~ 	SAY NAME1 @13 SAY 80 @14
+COPY ~anvilmnkoverhaul/spl/kish6.spl~   	~override/kish6.spl~ 	SAY NAME1 @15 SAY 80 @16
+COPY ~anvilmnkoverhaul/spl/kish7.spl~   	~override/kish7.spl~ 	SAY NAME1 @17 SAY 80 @18
+COPY ~anvilmnkoverhaul/spl/kish8.spl~   	~override/kish8.spl~ 	SAY NAME1 @19 SAY 80 @20
+COPY ~anvilmnkoverhaul/spl/kish9.spl~   	~override/kish9.spl~ 	SAY NAME1 @21 SAY 80 @22
+COPY ~anvilmnkoverhaul/spl/kish12.spl~  	~override/kish12.spl~ 	SAY NAME1 @30 SAY 80 @31
+COPY ~anvilmnkoverhaul/spl/spcl811.spl~ 	~override/spcl811.spl~ 	SAY 80 @23
+COPY ~anvilmnkoverhaul/spl/spcl820.spl~ 	~override/spcl820.spl~ 	SAY 80 @24
+COPY ~anvilmnkoverhaul/spl/spini87.spl~	~override/spini87.spl~	WRITE_LONG NAME1 RESOLVE_STR_REF (@36) WRITE_LONG 80 RESOLVE_STR_REF (@37)
+COPY ~anvilmnkoverhaul/spl/spini88.spl~	~override/spini88.spl~	WRITE_LONG NAME1 RESOLVE_STR_REF (@34) WRITE_LONG 80 RESOLVE_STR_REF (@35)
+COPY ~anvilmnkoverhaul/spl/SPCL814.spl~	~override/SPCL814.spl~
+COPY ~anvilmnkoverhaul/2da/LUMO0.2da~ 	~override/LUMO0.2da~
+COPY ~anvilmnkoverhaul/2da/LUMO1.2da~ 	~override/LUMO1.2da~	
+COPY ~anvilmnkoverhaul/2da/LUMO2.2da~ 	~override/LUMO2.2da~
+COPY ~anvilmnkoverhaul/2da/CLABMO01.2da~ 	~override/CLABMO01.2da~
+COPY ~anvilmnkoverhaul/2da/CLABMO02.2da~ 	~override/CLABMO02.2da~
+COPY ~anvilmnkoverhaul/2da/CLABMO03.2da~ 	~override/CLABMO03.2da~
+COPY ~anvilmnkoverhaul/spl/POTN14.itm~ 	~override/POTN14.itm~
+COPY ~anvilmnkoverhaul/bam~				~override~
+COPY_EXISTING ~spcl811.bam~ 		~override/spcl811b.bam~
+COPY_EXISTING ~spcl820.bam~ 		~override/spcl820b.bam~
+COPY_EXISTING ~S!flurry.bam~ 		~override/S!flurry.bam~
+
+ACTION_IF (GAME_IS ~bgee~) THEN BEGIN
+	STRING_SET ~24234~ @39
+	STRING_SET ~32300~ @39
+END
+ACTION_IF (GAME_IS ~bg2ee~) THEN BEGIN
+	STRING_SET ~45867~ @39
+	STRING_SET ~102507~ @39
+END
+ACTION_IF (GAME_IS ~eet~) THEN BEGIN
+	STRING_SET ~24234~ @39
+	STRING_SET ~45867~ @39
+	STRING_SET ~102507~ @39
+	STRING_SET ~224234~ @39
+	STRING_SET ~232299~ @39
+	STRING_SET ~271478~ @39
+	STRING_SET ~271480~ @39
+END
+
+BEGIN @3 // 3:+1 9:+2 12:+3 15:+4 25:+5
+SUBCOMPONENT @2 // Monk Fist Overhaul
+COPY ~anvilmnkoverhaul\itm\1\MFIST2.itm~		~override/MFIST2.itm~	WRITE_LONG NAME2 RESOLVE_STR_REF (@25)
+COPY ~anvilmnkoverhaul\itm\1\MFIST3.itm~		~override/MFIST3.itm~	WRITE_LONG NAME2 RESOLVE_STR_REF (@25)
+COPY ~anvilmnkoverhaul\itm\1\MFIST4.itm~		~override/MFIST4.itm~	WRITE_LONG NAME2 RESOLVE_STR_REF (@26)
+COPY ~anvilmnkoverhaul\itm\1\MFIST5.itm~		~override/MFIST5.itm~	WRITE_LONG NAME2 RESOLVE_STR_REF (@27)
+COPY ~anvilmnkoverhaul\itm\1\MFIST6.itm~		~override/MFIST6.itm~	WRITE_LONG NAME2 RESOLVE_STR_REF (@28)
+COPY ~anvilmnkoverhaul\itm\1\MFIST7.itm~		~override/MFIST7.itm~	WRITE_LONG NAME2 RESOLVE_STR_REF (@28)
+COPY ~anvilmnkoverhaul\itm\1\MFIST8.itm~		~override/MFIST8.itm~	WRITE_LONG NAME2 RESOLVE_STR_REF (@29)
+ACTION_IF (GAME_IS ~bgee~) THEN BEGIN
+	STRING_SET ~24234~ @32
+	STRING_SET ~32300~ @32
+END
+ACTION_IF (GAME_IS ~bg2ee~) THEN BEGIN
+	STRING_SET ~45867~ @32
+	STRING_SET ~102507~ @32
+END
+ACTION_IF (GAME_IS ~eet~) THEN BEGIN
+	STRING_SET ~24234~ @32
+	STRING_SET ~45867~ @32
+	STRING_SET ~102507~ @32
+	STRING_SET ~224234~ @32
+	STRING_SET ~232299~ @32
+	STRING_SET ~271478~ @32
+	STRING_SET ~271480~ @32
+END
+COPY_EXISTING ~weapprof.2da~ ~override~
+  SET_2DA_ENTRY 34 51  1 3
+  SET_2DA_ENTRY 34 57 1 3
+  SET_2DA_ENTRY 34 58 1 3
+BEGIN @4 // 5:+1 10:+2 15:+3 20:+4 25:+5 (Requires EE)
+SUBCOMPONENT @2 // Monk Fist Overhaul
+REQUIRE_PREDICATE FILE_EXISTS_IN_GAME 	~MONKFIST.2da~ ~Requires Enhanced Edition~
+COPY ~anvilmnkoverhaul\2da\MONKFIST.2da~  	~override/MONKFIST.2da~
+COPY ~anvilmnkoverhaul\itm\2\MFIST2A.itm~ 	~override/MFIST2A.itm~	SAY NAME2 @25
+COPY ~anvilmnkoverhaul\itm\2\MFIST3.itm~	 	~override/MFIST3.itm~	SAY NAME2 @26
+COPY ~anvilmnkoverhaul\itm\2\MFIST4A.itm~ 	~override/MFIST4A.itm~	SAY NAME2 @27
+COPY ~anvilmnkoverhaul\itm\2\MFIST7A.itm~ 	~override/MFIST7A.itm~	SAY NAME2 @28
+COPY ~anvilmnkoverhaul\itm\2\MFIST8.itm~	 	~override/MFIST8.itm~	SAY NAME2 @29
+
+ACTION_IF (GAME_IS ~bgee~) THEN BEGIN
+	STRING_SET ~24234~ @33
+	STRING_SET ~32300~ @33
+END
+ACTION_IF (GAME_IS ~bg2ee~) THEN BEGIN
+	STRING_SET ~45867~ @33
+	STRING_SET ~102507~ @33
+END
+ACTION_IF (GAME_IS ~eet~) THEN BEGIN
+	STRING_SET ~24234~ @33
+	STRING_SET ~45867~ @33
+	STRING_SET ~102507~ @33
+	STRING_SET ~224234~ @33
+	STRING_SET ~232299~ @33
+	STRING_SET ~271478~ @33
+	STRING_SET ~271480~ @33
+END
+
+COPY_EXISTING ~weapprof.2da~ ~override~
+  SET_2DA_ENTRY 34 51  1 3
+  SET_2DA_ENTRY 34 57 1 3
+  SET_2DA_ENTRY 34 58 1 3
